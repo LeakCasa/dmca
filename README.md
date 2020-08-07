@@ -1,3 +1,7 @@
+Use this template to submit your DMCA request via pull request.
+
+
+
 
 **Are you the copyright holder or authorized to act on the copyright owner's behalf?**
 
